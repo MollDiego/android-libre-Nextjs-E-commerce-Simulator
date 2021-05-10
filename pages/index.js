@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <Fragment>
       <Head>
-        <title>Home</title>
+        <title>Android Libre</title>
       </Head>
       <Header/>
     <div className="grid grid-cols-12 mb-60">
